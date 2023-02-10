@@ -1,4 +1,4 @@
-# 이 웹사이트는?
+# kono.pub 소개
 
 <figure><img src=".gitbook/assets/1a6211e385d07e4c.png" alt=""><figcaption></figcaption></figure>
 
@@ -6,7 +6,7 @@
 
 ## 자유 주제 인스턴스
 
-KONO는 누구나 사용하실 수 있는 자유 주제 인스턴스입니다. 인스턴스에 [등록하실 때 나타나는 세 가지 규칙](https://kono.pub/auth/sign\_up)에 동의하시고 앞으로 지켜 주시면 편안하게 자유 주제로 아무말을 해 주시면 됩니다.
+KONO는 누구나 사용하실 수 있는 자유 주제 인스턴스입니다. 인스턴스에 [등록하실 때 나타나는 세 가지 규칙](https://kono.pub/auth/sign\_up)에 동의하시고 앞으로 지켜 주시면 편안하게 자유 주제로 아무말 할 수 있습니다.
 
 ## KONO?
 
